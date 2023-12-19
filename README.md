@@ -3,7 +3,7 @@
   Hello! I'm lxchapu.
 </h2>
 
-<div style="text-align: center">
+<div align="center">
   <a href="https://www.lxchapu.com">Blog</a> ·
   <a href="mailto:lxchapu@outlook.com">Mail</a> ·
   <a href="https://twitter.com/lxchapu">X</a>
