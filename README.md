@@ -8,8 +8,7 @@ I’m currently learning [Godot Engine](https://github.com/godotengine/godot), I
 
 **Where to find me**
 
-[My blog](https://www.lxchapu.com) ·
-[X(Twitter)](https://twitter.com/lxchapu) ·
+[My blog](https://blog.lxchapu.com) ·
 [Email](mailto:lxchapu@outlook.com)
 
 **Hits**
